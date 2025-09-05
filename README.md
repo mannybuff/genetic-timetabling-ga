@@ -40,7 +40,6 @@ genetic-timetabling-ga/
 ## Notes
 - The initial data (instructors, rooms, courses, time slots) is kept intentionally small for readability.
 - Fitness scoring is **soft**; adjust weights/penalties as your constraints evolve.
-- For portfolio visibility, consider a simple bar/line plot of best/mean selection probability by generation.
 
 ## License
 MIT © Manuel Buffa, 2025
